@@ -1,3 +1,3 @@
 # README
 
-- deploy Bookers2
+- deploy Bookers2 with aws
